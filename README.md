@@ -9,11 +9,7 @@ A Python package for Multi-Touch Attribution (MTA) using Markov Chains.
 - Supports value-based attribution
 - Easy to integrate with existing marketing analytics pipelines
 
-## Installation
 
-```bash
-pip install mta_markov
-```
 
 ## Usage
 
