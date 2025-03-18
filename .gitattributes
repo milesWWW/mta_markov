@@ -1,0 +1,14 @@
+# Normalize line endings
+* text=auto
+
+# Ensure proper handling of binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Specific file types
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
