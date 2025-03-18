@@ -8,7 +8,7 @@ setup(
     description="A Markov Chain based Multi-Touch Attribution (MTA) model",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/milesWWW?tab=repositories",
+    url="https://github.com/milesWWW/mta_markov",
     packages=find_packages(),
     install_requires=[
         "numpy>=1.21.0",
